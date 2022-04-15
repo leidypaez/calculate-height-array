@@ -1,0 +1,9 @@
+body {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: #DFB2F1;
+}
+
+.paragraph {
+  color: rgb(75, 26, 68);
+  text-align: center;
+}
