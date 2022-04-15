@@ -58,4 +58,4 @@ document.write("Altura de la vela que no pudo volar la sobrina: ");
 document.write(vec[posicion_numero_medium]);
 ```
 _________
-![imagen]()
+![imagen](https://github.com/leidypaez/calculate-height-array/blob/main/img/img.png)
